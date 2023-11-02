@@ -2,19 +2,21 @@
 
 <h1 align="center">Hi Guys 👋, I'm Fany Siswanto</h1>
 <h3 align="center">
-	A full-stack developer from Indonesia<br>
-	I am fun to work with. I always like to learn new things.
+	A full-stack developer ready for hire from Indonesia with 9+ years of experience.<br />
+	I am fun to work with. I always like to learn new things.<br />
+	Please don't hesitate to contact me. Thank you
 </h3>
 
 <h3> 👨 &nbsp;About Me </h3>
 
-- 👀 I’m interested in working remotely
-- 🌱 I’m able to work with PHP (WordPress, Magento, Laravel, CodeIgniter) or in Typescript (NodeJS, Vue2, Vue3, Apollo)
-- 🌱 I'm able to work using MySQL/PerconaDB, PostgreSQL, and Oracle.
+- 👀 I’m interested in working remotely (if you're US-based, I'm available as an Independent Contractor, and also available by Upwork if needed.
+- 🌱 Expertise with PHP (WordPress, Magento, Laravel, CodeIgniter) or Typescript (NodeJS, Vue2, Vue3, Apollo), back-end, front-end, full-stack.
+- 🌱 Expertise using MySQL/PerconaDB, PostgreSQL, and Oracle.
+- :globe_with_meridians: In-depth understanding of building GIS-based applications (Google Maps, Mapzen, Pelias, OpenStreetMap) and routing optimizations.
 - 💞️ I’m looking to collaborate on Opensource Software
 - 📫 How to reach me blackmonk88@gmail.com
-- :octocat: My Github link https://github.com/blackmonk88/
-- :bookmark_tabs:	 My LinkedIn link https://www.linkedin.com/in/fany-siswanto-60100893/
+- :octocat: Github link https://github.com/blackmonk88/
+- :bookmark_tabs: LinkedIn link https://www.linkedin.com/in/fany-siswanto-60100893/
 <br/>
 <br/>
 
