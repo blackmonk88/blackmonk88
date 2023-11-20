@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi Guys 👋, I'm Fany Siswanto</h1>
 <h3 align="center">
-	A full-stack developer ready for hire from Indonesia with 9+ years of experience.<br />
+	A full-stack developer ready for hire from Indonesia with 9 years of experience.<br />
 	I am fun to work with. I always like to learn new things.<br />
 	Please don't hesitate to contact me. Thank you
 </h3>
